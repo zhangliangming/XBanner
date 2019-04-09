@@ -1,6 +1,6 @@
 package com.stx.xhb.xbanner.entity;
 
-import android.support.annotation.DrawableRes;
+import androidx.annotation.DrawableRes;
 
 /**
  * author: xiaohaibin.
